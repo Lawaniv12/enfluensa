@@ -1,0 +1,1171 @@
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400;1,500;1,700&display=swap
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://inflanar.mamunuiux.com/build/assets/app-b0ef859b.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\build\assets\app-b0ef859b-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/animate.min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\animate.min-2.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/aos.min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\aos.min-2.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\bootstrap.min-2.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/datatables.min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\datatables.min-2.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/flatpickr.min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\flatpickr.min-2.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/font-awesome-all.min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\font-awesome-all.min-2.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/glightbox.min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\glightbox.min-2.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/jquery-ui.min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\jquery-ui.min-2.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/live_chat.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\live_chat-2.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/select2-min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\select2-min-2.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/swiper-slider.min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\swiper-slider.min-2.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/theme-default.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\theme-default-2.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/video-popup.min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\video-popup.min-2.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-facebook-logo.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-facebook-logo-2.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-google-logo.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-google-logo-2.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/active.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\active-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/aos.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\aos.min-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\bootstrap.min-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/ckeditor.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\ckeditor.min-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/flatpickr.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\flatpickr-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/fullcalendar.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\fullcalendar.min-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/glightbox.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\glightbox.min-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\jquery-3.7.1.min-4.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/jquery-migrate.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\jquery-migrate-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\jquery-ui.min-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\jquery.counterup.min-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/select2-js.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\select2-js.min-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/sweetalert2@11.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\sweetalert2@11-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/swiper-slider.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\swiper-slider.min-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/video-popup.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\video-popup.min-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\waypoints.min-2.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/style.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\style-2.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/login
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\login-2.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/toastr/toastr.min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\toastr\toastr.min-4.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/toastr/toastr.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\toastr\toastr.min-4.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/chat_icon.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\chat_icon-2.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/enfluensa - favicon.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\favicon-2024-02-07-08-40-31-1444-4.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/login-image-2023-10-10-06-58-22-7400.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\login-image-2023-10-10-06-58-22-7400-2.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/enfluensa.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\logo-2023-08-22-09-14-55-4248-2.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/enfluensa.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\logo-2024-02-07-08-40-06-4525-2.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/provider-joining-image-2023-09-06-06-56-12-3623.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\provider-joining-image-2023-09-06-06-56-12-3623-2.webp
+Content Type: image/webp
+
+Uri: https://www.facebook.com/tr?id=972911606915059&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\tr-2
+Content Type: text/plain
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\recaptcha\api-2.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-84213520-6
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\gtag\js-2
+Content Type: application/javascript
+
+ Web Sites\inflanar.mamunuiux.com\frontend\css\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/live_chat.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\live_chat.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/select2-min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\select2-min.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/swiper-slider.min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\swiper-slider.min.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/theme-default.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\theme-default.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/css/video-popup.min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\css\video-popup.min.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/email-icon.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\email-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/empty-service.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\empty-service.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/global.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\global.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-author-icon.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-author-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-bread-bg.jpg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-bread-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-calendar-icon.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-calendar-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-calendar-icon2.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-calendar-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-cat-label.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-cat-label.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-check-icon2.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-check-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-facebook-logo.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-facebook-logo.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-faq-arrow.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-faq-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-faq-arrow2.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-faq-arrow2.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-footer-bg.jpg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-footer-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-footer-bg.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-footer-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-footer-bg2.jpg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-footer-bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-google-logo.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-google-logo.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-green-check.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-green-check.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-gsocial1.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-gsocial1.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-gsocial2.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-gsocial2.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-gsocial3.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-gsocial3.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-gsocial4.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-gsocial4.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-hero-bg.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-hero-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-hero-mixed-bg.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-hero-mixed-bg.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-hero-shape.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-hero-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-hero-vector.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-hero-vector.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-line-shape1.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-line-shape1.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-line-shape2.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-line-shape2.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-line-shape3.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-line-shape3.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-line-shape4.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-line-shape4.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-line-shape5.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-line-shape5.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-line-shape6.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-line-shape6.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-pricing-shape.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-pricing-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-scroll-up.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-scroll-up.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-search-white.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-search-white.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-section-shape.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-section-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-section-shape10.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-section-shape10.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-section-shape11.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-section-shape11.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-section-shape12.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-section-shape12.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-section-shape13.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-section-shape13.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-section-shape14.jpg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-section-shape14.jpg
+Content Type: image/jpeg
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-section-shape15.jpg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-section-shape15.jpg
+Content Type: image/jpeg
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-section-shape2.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-section-shape2.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-section-shape5.jpg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-section-shape5.jpg
+Content Type: image/jpeg
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-section-shape7.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-section-shape7.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-section-shape9.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-section-shape9.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-section-vector.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-section-vector.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-section-vector2.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-section-vector2.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-section-vector4.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-section-vector4.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-section-vector5.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-section-vector5.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-social1.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-social1.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-social2.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-social2.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-social3.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-social3.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-social4.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-social4.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-tab-shape.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-tab-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-testi-qoute.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-testi-qoute.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-user2.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-user2.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-why-icon1.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-why-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-why-icon2.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-why-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/in-why-icon3.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\in-why-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/inflanar-table-bg.jpg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\inflanar-table-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/phone-icon.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\phone-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/search-icon.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\search-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/search-icon2.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\search-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/section-inner-shape1.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\section-inner-shape1.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/img/section-inner-shape2.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\img\section-inner-shape2.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/active.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\active.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/aos.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\aos.min.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/ckeditor.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\ckeditor.min.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/flatpickr.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\flatpickr.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/fullcalendar.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\fullcalendar.min.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/glightbox.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\glightbox.min.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/jquery-migrate.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\jquery-migrate.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/select2-js.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\select2-js.min.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/sweetalert2@11.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\sweetalert2@11.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/swiper-slider.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\swiper-slider.min.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/video-popup.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\video-popup.min.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/frontend/style.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\style.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/frontend/webfonts/agrandir-bold.woff
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\webfonts\agrandir-bold.woff
+Content Type: font/woff
+
+Uri: https://inflanar.mamunuiux.com/frontend/webfonts/agrandir-regular.woff
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\webfonts\agrandir-regular.woff
+Content Type: font/woff
+
+Uri: https://inflanar.mamunuiux.com/frontend/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://inflanar.mamunuiux.com/frontend/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://inflanar.mamunuiux.com/frontend/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://inflanar.mamunuiux.com/frontend/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://inflanar.mamunuiux.com/frontend/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://inflanar.mamunuiux.com/frontend/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\frontend\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://inflanar.mamunuiux.com/influencers
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\influencers.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/influencers/alvantan-khan-20231018013139
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\influencers\alvantan-khan-20231018013139.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/influencers/alvantan-khan-20231018120534
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\influencers\alvantan-khan-20231018120534.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/influencers/david-richard-20231016032602
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\influencers\david-richard-20231016032602.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/influencers/nawyantong-20231017040916
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\influencers\nawyantong-20231017040916.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/login
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\login.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/page/custom-page-one
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\page\custom-page-one.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/page/custom-page-two
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\page\custom-page-two.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/pricing/plan
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\pricing\plan.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/privacy-policy
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/register
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\register.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/service/electricia-in-workwear-open-conditioner
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\service\electricia-in-workwear-open-conditioner.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/service/energizing-electrical-influencers
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\service\energizing-electrical-influencers.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/service/happy-lady-in-as-sltylish-skirt-boater
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\service\happy-lady-in-as-sltylish-skirt-boater.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/service/influencer-beauty-makeovers
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\service\influencer-beauty-makeovers.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/service/makeup-magic-with-two-influencers
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\service\makeup-magic-with-two-influencers.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/service/standing-in-at-astemple-gates-at-lem
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\service\standing-in-at-astemple-gates-at-lem.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/service/strength-training-with-influencers
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\service\strength-training-with-influencers.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/service/strong-man-the-training-black-man
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\service\strong-man-the-training-black-man.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/service/style-meets-influence-wardrobe-services
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\service\style-meets-influence-wardrobe-services.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/service/two-girls-are-our-doing-makeup-in
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\service\two-girls-are-our-doing-makeup-in.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?categories%5B%5D=beauty
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-11.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?categories%5B%5D=fashion
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-6.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?categories%5B%5D=games
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-14.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?categories%5B%5D=life-style
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-9.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?categories%5B%5D=parenting
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-7.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?categories%5B%5D=pet-care
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-13.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?categories%5B%5D=photography
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-8.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?categories%5B%5D=sport-fitness
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-10.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?categories%5B%5D=travel
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-15.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?categories%5B%5D=vloggers
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-12.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?page=1
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-17.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?page=2
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-16.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?search=Facebook
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-2.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?search=Influencer
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-5.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?search=Instagram
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-3.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?search=Linkedin
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-4.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/services?search=TikTok
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\services-1.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/subscription-payment/2
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\subscription-payment\2.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/subscription-payment/3
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\subscription-payment\3.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/subscription-payment/4
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\subscription-payment\4.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/terms-conditions
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\terms-conditions.html
+Content Type: text/html
+
+Uri: https://inflanar.mamunuiux.com/toastr/toastr.min.css
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\toastr\toastr.min.css
+Content Type: text/css
+
+Uri: https://inflanar.mamunuiux.com/toastr/toastr.min.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\toastr\toastr.min.js
+Content Type: application/javascript
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/alvantan-khan-2023-10-18-12-07-55-8858.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\alvantan-khan-2023-10-18-12-07-55-8858.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/alvantan-khan-2023-10-29-01-46-37-2249.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\alvantan-khan-2023-10-29-01-46-37-2249.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/blog--2023-10-15-11-42-42-4785.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\blog--2023-10-15-11-42-42-4785.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/blog--2023-10-15-11-48-20-1406.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\blog--2023-10-15-11-48-20-1406.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/blog--2023-10-15-11-50-31-4002.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\blog--2023-10-15-11-50-31-4002.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/blog--2023-10-15-11-52-16-1318.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\blog--2023-10-15-11-52-16-1318.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/blog--2023-10-15-11-56-31-4150.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\blog--2023-10-15-11-56-31-4150.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/blog--2023-10-16-12-05-04-2181.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\blog--2023-10-16-12-05-04-2181.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/blog--2023-10-16-12-22-18-9276.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\blog--2023-10-16-12-22-18-9276.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/blog--2023-10-16-12-24-39-7203.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\blog--2023-10-16-12-24-39-7203.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/blog--2023-10-16-12-25-53-4981.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\blog--2023-10-16-12-25-53-4981.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/blog--2023-10-16-12-27-37-2496.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\blog--2023-10-16-12-27-37-2496.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/daniel-paul-20231016043710.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\daniel-paul-20231016043710.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/daniel-paul-logo-20231016043710.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\daniel-paul-logo-20231016043710.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/david-richard-2023-10-16-03-32-15-6862.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\david-richard-2023-10-16-03-32-15-6862.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/david-richard-20231016043644.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\david-richard-20231016043644.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/david-richard-logo-20231016043644.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\david-richard-logo-20231016043644.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/john-doe-2023-10-18-02-10-17-5915.jpg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\john-doe-2023-10-18-02-10-17-5915.jpg
+Content Type: image/jpeg
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/john-doe-20231016034733.jpg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\john-doe-20231016034733.jpg
+Content Type: image/jpeg
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/john-doe-20231016043514.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\john-doe-20231016043514.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/john-doe-logo-20231016034733.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\john-doe-logo-20231016034733.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/john-doe-logo-20231016043514.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\john-doe-logo-20231016043514.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/nawyantong-2023-10-17-11-54-32-5597.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\nawyantong-2023-10-17-11-54-32-5597.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/our-partner-2023-10-16-02-58-50-2560.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\our-partner-2023-10-16-02-58-50-2560.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/our-partner-2023-10-16-02-59-11-3955.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\our-partner-2023-10-16-02-59-11-3955.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/our-partner-2023-10-16-02-59-57-3155.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\our-partner-2023-10-16-02-59-57-3155.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/our-partner-2023-10-16-03-00-18-7987.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\our-partner-2023-10-16-03-00-18-7987.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/our-partner-2023-10-16-03-00-49-2205.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\our-partner-2023-10-16-03-00-49-2205.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/our-partner-2023-10-16-03-01-09-9809.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\our-partner-2023-10-16-03-01-09-9809.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/our-partner-2023-10-16-03-01-37-4721.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\our-partner-2023-10-16-03-01-37-4721.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/our-partner-2023-10-16-03-01-52-9598.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\our-partner-2023-10-16-03-01-52-9598.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/our-partner-2023-10-16-03-02-07-4470.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\our-partner-2023-10-16-03-02-07-4470.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/rashaini-chan-20231016041437.jpg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\rashaini-chan-20231016041437.jpg
+Content Type: image/jpeg
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/rashaini-chan-logo-20231016041437.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\rashaini-chan-logo-20231016041437.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-cat-2023-10-16-05-01-35-4202.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-cat-2023-10-16-05-01-35-4202.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-cat-2023-10-16-05-02-09-6852.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-cat-2023-10-16-05-02-09-6852.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-cat-2023-10-16-05-02-34-4510.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-cat-2023-10-16-05-02-34-4510.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-cat-2023-10-16-05-03-05-2874.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-cat-2023-10-16-05-03-05-2874.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-cat-2023-10-16-05-03-29-7763.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-cat-2023-10-16-05-03-29-7763.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-cat-2023-10-16-05-04-00-1669.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-cat-2023-10-16-05-04-00-1669.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-cat-2023-10-16-05-04-25-3188.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-cat-2023-10-16-05-04-25-3188.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-cat-2023-10-16-05-05-03-3537.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-cat-2023-10-16-05-05-03-3537.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-cat-2023-10-16-05-05-43-4065.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-cat-2023-10-16-05-05-43-4065.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-cat-2023-10-16-05-06-11-9931.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-cat-2023-10-16-05-06-11-9931.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-thumb-2023-10-29-01-01-02-1982.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-thumb-2023-10-29-01-01-02-1982.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-thumb-2023-10-29-01-02-06-2769.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-thumb-2023-10-29-01-02-06-2769.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-thumb-2023-10-29-01-04-00-5932.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-thumb-2023-10-29-01-04-00-5932.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-thumb-2023-10-29-01-05-28-3609.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-thumb-2023-10-29-01-05-28-3609.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-thumb-2023-10-29-01-05-52-9725.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-thumb-2023-10-29-01-05-52-9725.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-thumb-2023-10-29-01-06-35-6630.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-thumb-2023-10-29-01-06-35-6630.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-thumb-2023-10-29-01-07-08-4893.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-thumb-2023-10-29-01-07-08-4893.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-thumb-2023-10-29-01-07-34-1575.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-thumb-2023-10-29-01-07-34-1575.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-thumb-2023-10-29-01-08-01-5430.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-thumb-2023-10-29-01-08-01-5430.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/custom-images/service-thumb-2023-10-29-12-58-38-7684.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\custom-images\service-thumb-2023-10-29-12-58-38-7684.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/about-us-2023-08-24-07-03-53-5496.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\about-us-2023-08-24-07-03-53-5496.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/breadcrumb-image-2023-10-16-04-11-05-8079.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\breadcrumb-image-2023-10-16-04-11-05-8079.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/ceo-avatar-2023-08-24-07-04-59-5415.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\ceo-avatar-2023-08-24-07-04-59-5415.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/ceo-signature-2023-08-24-07-05-34-7018.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\ceo-signature-2023-08-24-07-05-34-7018.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/chat_icon.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\chat_icon.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/facebook-icon-2023-10-16-03-05-09-5457.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\facebook-icon-2023-10-16-03-05-09-5457.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/faq-image-2023-09-06-06-47-15-3121.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\faq-image-2023-09-06-06-47-15-3121.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/enfluensa - favicon.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\enfluensa - favicon.svg
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/john-doe-2024-02-07-08-39-17-1122.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\john-doe-2024-02-07-08-39-17-1122.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/login-image-2023-10-10-06-58-22-7400.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\login-image-2023-10-10-06-58-22-7400.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/enfluensa.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\logo-2023-08-22-09-14-55-4248.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/enfluensa.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\enfluensa.svg
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/our-feature1-2023-10-16-02-13-11-6279.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\our-feature1-2023-10-16-02-13-11-6279.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/our-feature2-2023-10-16-02-13-35-2109.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\our-feature2-2023-10-16-02-13-35-2109.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/our-feature3-2023-10-16-02-14-45-9471.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\our-feature3-2023-10-16-02-14-45-9471.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/our-feature3-2023-10-16-02-14-59-7866.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\our-feature3-2023-10-16-02-14-59-7866.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/provider-joining-image-2023-09-06-06-56-12-3623.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\provider-joining-image-2023-09-06-06-56-12-3623.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/slider-client-20230904102359.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\slider-client-20230904102359.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/slider-one-feature-20230904102503.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\slider-one-feature-20230904102503.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/slider2-feature-20230904111624.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\slider2-feature-20230904111624.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/slider3-feature-20230918084831.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\slider3-feature-20230918084831.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/twitter-icon-2023-09-06-07-06-56-7024.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\twitter-icon-2023-09-06-07-06-56-7024.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/twitter-icon-2023-09-06-07-08-23-2473.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\twitter-icon-2023-09-06-07-08-23-2473.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/twitter-icon-2023-09-06-07-09-35-8675.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\twitter-icon-2023-09-06-07-09-35-8675.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/video-image-2023-09-06-06-30-36-3964.webp
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\video-image-2023-09-06-06-30-36-3964.webp
+Content Type: image/webp
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us-item-2023-09-05-10-51-40-7856.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us-item-2023-09-05-10-51-40-7856.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us-item-2023-09-05-10-52-15-8753.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us-item-2023-09-05-10-52-15-8753.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us-item-2023-09-05-10-52-34-5768.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us-item-2023-09-05-10-52-34-5768.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us-item-2023-09-18-06-39-06-1025.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us-item-2023-09-18-06-39-06-1025.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us-item-2023-09-18-06-39-06-2883.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us-item-2023-09-18-06-39-06-2883.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us-item-2023-09-18-06-39-06-4501.svg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us-item-2023-09-18-06-39-06-4501.svg
+Content Type: image/svg+xml
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us1-2023-09-05-06-14-59-3945.jpg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us1-2023-09-05-06-14-59-3945.jpg
+Content Type: image/jpeg
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us2-2023-09-05-06-15-48-2251.jpg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us2-2023-09-05-06-15-48-2251.jpg
+Content Type: image/jpeg
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us2-2023-09-05-10-11-01-6766.jpg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us2-2023-09-05-10-11-01-6766.jpg
+Content Type: image/jpeg
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us2-2023-09-05-10-51-04-6086.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us2-2023-09-05-10-51-04-6086.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us3-2023-09-05-06-16-49-3923.jpg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us3-2023-09-05-06-16-49-3923.jpg
+Content Type: image/jpeg
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us3-2023-09-05-06-17-45-6525.jpg
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us3-2023-09-05-06-17-45-6525.jpg
+Content Type: image/jpeg
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us5-2023-09-05-06-42-08-2568.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us5-2023-09-05-06-42-08-2568.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us7-2023-09-05-09-00-23-3410.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us7-2023-09-05-09-00-23-3410.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us8-2023-09-05-06-44-40-7736.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us8-2023-09-05-06-44-40-7736.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us_forg-2023-09-05-10-14-07-1994.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us_forg-2023-09-05-10-14-07-1994.png
+Content Type: image/png
+
+Uri: https://inflanar.mamunuiux.com/uploads/website-images/why_choose_us_forg-2023-09-05-10-16-08-7499.png
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\uploads\website-images\why_choose_us_forg-2023-09-05-10-16-08-7499.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/tr?id=972911606915059&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\tr
+Content Type: text/plain
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-84213520-6
+File Name: C:\Downloaded Web Sites\inflanar.mamunuiux.com\gtag\js
+Content Type: application/javascript
+

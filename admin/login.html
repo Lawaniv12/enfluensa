@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+   <link rel="shortcut icon" href="../uploads/website-images/favicon-2024-02-07-08-40-31-1444-2.png" type="image/x-icon">
+  <meta charset="UTF-8">
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
+    <title>Login</title>
+
+
+  <link rel="stylesheet" href="../backend/css/bootstrap.min.css">
+  <link href="../backend/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../backend/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="../backend/css/style.css">
+  <link rel="stylesheet" href="../backend/css/bootstrap-social.css">
+  <link rel="stylesheet" href="../backend/css/components.css">
+    <link rel="stylesheet" href="../toastr/toastr.min-2.css">
+  <link rel="stylesheet" href="../backend/css/bootstrap4-toggle.min.css">
+  <link rel="stylesheet" href="../backend/css/dev.css">
+  <link rel="stylesheet" href="../backend/css/select2.min.css">
+  <link rel="stylesheet" href="../backend/css/tagify.css">
+  <link rel="stylesheet" href="../backend/css/bootstrap-tagsinput.css">
+  <link rel="stylesheet" href="../backend/css/fontawesome-iconpicker.min.css">
+  <link rel="stylesheet" href="../backend/css/bootstrap-datepicker.min.css">
+  <link rel="stylesheet" href="../backend/clockpicker/dist/bootstrap-clockpicker.css">
+  <link rel="stylesheet" href="../backend/datetimepicker/jquery.datetimepicker.css">
+  <link rel="stylesheet" href="../backend/css/iziToast.min.css">
+
+  <script src="../frontend/js/jquery-3.7.1.min-2.js"></script>
+
+</head>
+
+<div id="app">
+    <section class="section">
+      <div class="container mt-5">
+        <div class="row">
+        <div class="col-md-4"></div>
+          <div class="col-md-4">
+            <div class="card card-primary">
+              <div class="card-header"><h4>Welcome to Login</h4></div>
+
+              <div class="card-body">
+                <form class="needs-validation" novalidate="" id="adminLoginForm">
+                    <input type="hidden" name="_token" value="0ScUBlxG0dt6Wg3fpARLfCpmP1EgQasCsd4na2Qw" autocomplete="off">
+                  <div class="form-group">
+                    <label for="email">Email</label>
+
+                                        <input id="email exampleInputEmail" type="email" class="form-control" name="email" tabindex="1" autofocus="" value="admin@gmail.com">
+                    
+
+                  </div>
+
+                  <div class="form-group">
+                    <div class="d-block">
+                    	<label for="password" class="control-label">Password</label>
+                    </div>
+                                        <input id="password exampleInputPassword" type="password" class="form-control" name="password" tabindex="2" value="1234">
+                    
+                  </div>
+
+                  <div class="form-group">
+                    <div class="custom-control custom-checkbox">
+                      <input type="checkbox" name="remember" class="custom-control-input" tabindex="3" id="remember">
+                      <label class="custom-control-label" for="remember">Remember Me</label>
+                    </div>
+                  </div>
+
+                  <div class="form-group">
+                    <button id="adminLoginBtn" type="submit" class="btn btn-primary btn-lg btn-block" tabindex="4">
+                      Login
+                    </button>
+                  </div>
+                </form>
+
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+
+      </div>
+    </section>
+  </div>
+
+
+
+
+  <script src="../backend/js/popper.min.js"></script>
+  <script src="../backend/js/bootstrap.min.js"></script>
+
+  <script src="../backend/js/jquery.nicescroll.min.js"></script>
+  <script src="../backend/js/moment.min.js"></script>
+  <script src="../backend/js/stisla.js"></script>
+  <script src="../backend/js/scripts.js"></script>
+  <script src="https://inflanar.mamunuiux.com/backend/js/custom.js"></script>
+  <script src="../toastr/toastr.min-2.js"></script>
+  <script src="../backend/js/modules-toastr.js"></script>
+
+    <script>
+            </script>
+
+    
+    <script>
+        (function($) {
+        "use strict";
+        $(document).ready(function () {
+
+            $("#adminLoginForm").on('submit',function(e) {
+                e.preventDefault();
+
+                $.ajax({
+                    url: "https://inflanar.mamunuiux.com/admin/store-login",
+                    type:"post",
+                    data:$('#adminLoginForm').serialize(),
+                    success:function(response){
+                        if(response.success){
+                            window.location.href = "https://inflanar.mamunuiux.com/admin/dashboard";
+                            toastr.success(response.success)
+                        }
+                        if(response.error){
+                            toastr.error(response.error)
+                        }
+                    },
+                    error:function(response){
+                        if(response.responseJSON.errors.email)toastr.error(response.responseJSON.errors.email[0])
+                        if(response.responseJSON.errors.password)toastr.error(response.responseJSON.errors.password[0])
+                    }
+
+                });
+
+
+            })
+
+
+        });
+
+        })(jQuery);
+    </script>
+
+
+
+</html>
